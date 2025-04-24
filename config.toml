@@ -1,0 +1,24 @@
+baseURL = "http://localhost:1313/" # Update to your domain later
+languageCode = "en-us"
+title = "ScholarSearch - Chrome Extension"
+theme = "hugo-bootstrap-theme"
+
+[params]
+  description = "ScholarSearch: A Chrome extension to find and rank academic papers by relevance."
+  favicon = "/images/favicon.ico"
+  showAuthor = false
+  showDate = false
+  showReadingTime = false
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Install"
+  url = "/install/"
+  weight = 2
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
