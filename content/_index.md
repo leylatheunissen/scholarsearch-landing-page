@@ -2,41 +2,26 @@
 title: "ScholarSearch"
 date: 2025-04-24
 draft: false
-description: "ScholarSearch: A Chrome extension to find and rank academic papers by relevance."
+description: "ScholarSearch: A Chrome extension to streamline academic research with AI-powered paper ranking."
 type: "home"
 hero_image: "/images/hero.jpg"
-hero_alt: "ScholarSearch Hero Image"
+hero_alt: "ScholarSearch Chrome Extension Interface"
 ---
 
-# ScholarSearch: Find Relevant Papers Fast
+# ScholarSearch: Streamline Your Research
 
-ScholarSearch is a Chrome extension that simplifies academic research. Enter your keywords and research question, and our AI-powered tool searches Semantic Scholar to find and rank the most relevant papers for you.
+ScholarSearch is a Chrome extension that empowers researchers, students, and academics to find relevant papers quickly.
 
 <div class="text-center my-5">
   <a href="/install/" class="btn btn-primary btn-lg">Install Now</a>
 </div>
 
-## Why ScholarSearch?
+{{ partial "features.html" . }}
 
-<div class="row my-5">
-  <div class="col-md-4">
-    <h3>AI-Powered Ranking</h3>
-    <p>Uses OpenAI to rank papers by relevance to your specific research question.</p>
-  </div>
-  <div class="col-md-4">
-    <h3>Seamless Integration</h3>
-    <p>Access ScholarSearch directly in your browser, no need to visit another site.</p>
-  </div>
-  <div class="col-md-4">
-    <h3>Time-Saving</h3>
-    <p>Quickly filter papers with keyword searches and concise results.</p>
-  </div>
-</div>
+{{ partial "latest-posts.html" . }}
 
-## Ready to Streamline Your Research?
-
-Install ScholarSearch and start finding the right papers today.
+{{ partial "featured-pages.html" . }}
 
 <div class="text-center my-5">
-  <a href="/install/" class="btn btn-primary btn-lg">Get Started</a>
+  <a href="https://github.com/maya2816/chrome-extension-scholary-search" class="btn btn-outline-secondary">Explore on GitHub</a>
 </div>
