@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ScholarSearch</title>
+    <link>https://leylatheunissen.github.io/scholarsearch-landing-page/</link>
+    <description>Recent content on ScholarSearch</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://leylatheunissen.github.io/scholarsearch-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>https://leylatheunissen.github.io/scholarsearch-landing-page/contact/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/scholarsearch-landing-page/contact/</guid>
+      <description>&lt;h2 id=&#34;contact-scholarsearch&#34;&gt;Contact ScholarSearch&lt;/h2&gt;&#xA;&lt;p&gt;Have questions or feedback? Reach out to us on our GitHub repository:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/maya2816/chrome-extension-scholary-search&#34;&gt;ScholarSearch Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We’re excited to hear from you and improve ScholarSearch!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Install ScholarSearch</title>
+      <link>https://leylatheunissen.github.io/scholarsearch-landing-page/install/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/scholarsearch-landing-page/install/</guid>
+      <description>&lt;h2 id=&#34;install-scholarsearch&#34;&gt;Install ScholarSearch&lt;/h2&gt;&#xA;&lt;p&gt;Follow these steps to get started with ScholarSearch:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Visit the Chrome Web Store&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Go to the &lt;a href=&#34;#&#34;&gt;ScholarSearch Chrome Web Store page&lt;/a&gt; (link TBD after publication).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Add to Chrome&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Add to Chrome&lt;/strong&gt; and confirm by selecting &lt;strong&gt;Add Extension&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Configure API Keys&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Open the extension and enter your Semantic Scholar and OpenAI API keys (free to obtain from their respective websites).&lt;/li&gt;&#xA;&lt;li&gt;Semantic Scholar: &lt;a href=&#34;https://www.semanticscholar.org/product/api&#34;&gt;Get API Key&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;OpenAI: &lt;a href=&#34;https://platform.openai.com/account/api-keys&#34;&gt;Get API Key&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Start Searching&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://leylatheunissen.github.io/scholarsearch-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/scholarsearch-landing-page/about/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://leylatheunissen.github.io/scholarsearch-landing-page/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/scholarsearch-landing-page/code-of-conduct/</guid>
+      <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://leylatheunissen.github.io/scholarsearch-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/scholarsearch-landing-page/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://leylatheunissen.github.io/scholarsearch-landing-page/about.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/scholarsearch-landing-page/about.pt/</guid>
+      <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
