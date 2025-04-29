@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/" # Update to your domain later
+baseURL = "https://leylatheunissen.github.io/scholarsearch-landing-page/"
 languageCode = "en-us"
 title = "ScholarSearch"
 theme = "hugo-bootstrap-theme"
