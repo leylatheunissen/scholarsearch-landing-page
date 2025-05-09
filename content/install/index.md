@@ -9,11 +9,11 @@ description: "How to install the ScholarSearch Chrome extension."
 
 Follow these steps to get started with ScholarSearch:
 
-1. **Visit the Chrome Web Store**:
-   - Go to the [ScholarSearch Chrome Web Store page](#) (link TBD after publication).
+1. **Download the extension**:
+   - Download or clone the extension from our [GitHub](https://github.com/maya2816/chrome-extension-scholary-search)
 
 2. **Add to Chrome**:
-   - Click **Add to Chrome** and confirm by selecting **Add Extension**.
+   - Go to the [Chrome extensions](chrome:\\extensions) page, enable **Developer Mode** in the top-right corner, click **Load Unpacked**, and select the extension folder. 
 
 3. **Configure API Keys**:
    - Open the extension and enter your Semantic Scholar and OpenAI API keys (free to obtain from their respective websites).
@@ -22,9 +22,3 @@ Follow these steps to get started with ScholarSearch:
 
 4. **Start Searching**:
    - Click the ScholarSearch icon in your toolbar, enter your keywords and research question, and view ranked results instantly.
-
-<div class="text-center my-5">
-  <a href="/install/" class="btn btn-primary btn-lg">Install Now</a>
-</div>
-
-**Note**: Ensure you have a stable internet connection for API calls. Contact us at [support@scholarssearch.com](#) for help.
