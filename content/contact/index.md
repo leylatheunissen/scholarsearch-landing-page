@@ -7,8 +7,8 @@ description: "Contact the ScholarSearch team."
 
 ## Contact ScholarSearch
 
-Have questions or feedback? Reach out to us on our GitHub repository:
+**ScholarSearch** was developed by four college students for a computer science course on software engineering.
 
-- **GitHub**: [ScholarSearch Repository](https://github.com/maya2816/chrome-extension-scholary-search)
+Have questions or feedback? Reach out to us on [GitHub](https://github.com/maya2816/chrome-extension-scholary-search) !
 
 We’re excited to hear from you and improve ScholarSearch!
